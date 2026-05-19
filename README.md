@@ -33,4 +33,4 @@ The ERD was transformed into relational tables using database mapping rules.
 
 ## Mapping Diagram
 
-![Mapping](Hospital-Mapping.jpg)
+![Mapping](MAPPING-HOSPITAL.jpg)
